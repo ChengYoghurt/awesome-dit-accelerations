@@ -22,7 +22,7 @@ A list of awesome dit projects and papers for dit accelerations.
 - [ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification](https://arxiv.org/abs/2405.14256) by He, Yefei, et al., NeurIPS 2025
 - [PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models](https://arxiv.org/abs/2506.16054) by Zhao, Tianchen, et al., arXiv 2025
 - [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) by Zhang, Jintao, et al., ICLR 2025
-- [SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization] by Zhang, Jintao, et al., ICML 2025
-- [SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training] by Zhang, Jintao, et al., NeurIPS 2025
+- [SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958) by Zhang, Jintao, et al., ICML 2025
+- [SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training](https://arxiv.org/abs/2505.11594) by Zhang, Jintao, et al., NeurIPS 2025
 
 ## Tutorials & Blogs<a id="section3"></a>
