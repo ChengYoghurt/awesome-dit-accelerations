@@ -5,7 +5,7 @@ A list of awesome dit projects and papers for dit accelerations.
 ## Contents
 - [Open Source Projects](#section1)
 - [Papers](#section2)
-  - Survey
+  - [Survey](#section2_survey)
   - [Quantization](#section2_quantization)
 - [Tutorials & Blogs](#section3)
 
@@ -15,7 +15,7 @@ A list of awesome dit projects and papers for dit accelerations.
 
 ## Papers<a id="section2"></a>
 
-### Survey
+### Survey<a id="section2_survey"></a>
 - [Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study](https://arxiv.org/abs/2411.13588) by Tencent, arXiv 2024
 
 ### Quantization<a id="section2_quantization"></a>
