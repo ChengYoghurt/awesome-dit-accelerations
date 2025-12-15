@@ -30,6 +30,7 @@ A list of awesome dit projects and papers for dit accelerations.
 
 ### Survey<a id="section2_survey"></a>
 - [Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study](https://arxiv.org/abs/2411.13588) by Tencent, arXiv 2024
+- [A White Paper on Neural Network Quantization](https://arxiv.org/abs/2106.08295), by Nagel, Markus, et al., arXiv 2021
 
 ### AR-Diffusion<a id="section2_ar_diffusion"></a>
 - [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923) by NVIDIA, arXiv 2025
@@ -39,10 +40,11 @@ A list of awesome dit projects and papers for dit accelerations.
 - [AKVQ-VL: Attention-Aware KV Cache Adaptive
 2-Bit Quantization for Vision-Language Models](https://arxiv.org/abs/2501.15021) by Su, Zunhai, et al., arXiv 2025
 - [PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs](https://arxiv.org/abs/2505.18610) by Liu, Tengxuan, et al., arXiv 2025
-- [ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification](https://arxiv.org/abs/2405.14256) by He, Yefei, et al., NeurIPS 2025
+- [ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification](https://arxiv.org/abs/2405.14256) by He, Yefei, et al., NeurIPS 2024
 - [PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models](https://arxiv.org/abs/2506.16054) by Zhao, Tianchen, et al., arXiv 2025
 - [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) by Zhang, Jintao, et al., ICLR 2025
 - [SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958) by Zhang, Jintao, et al., ICML 2025
 - [SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training](https://arxiv.org/abs/2505.11594) by Zhang, Jintao, et al., NeurIPS 2025
 
 ## Tutorials & Blogs<a id="section3"></a>
+- [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)
