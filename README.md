@@ -6,6 +6,7 @@ A list of awesome dit projects and papers for dit accelerations.
 - [Open Source Projects](#section1)
 - [Papers](#section2)
   - [Survey](#section2_survey)
+  - [AR-Diffusion](#section2_ar_diffusion)
   - [Quantization](#section2_quantization)
 - [Tutorials & Blogs](#section3)
 
@@ -17,6 +18,10 @@ A list of awesome dit projects and papers for dit accelerations.
 
 ### Survey<a id="section2_survey"></a>
 - [Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study](https://arxiv.org/abs/2411.13588) by Tencent, arXiv 2024
+
+### AR-Diffusion<a id="section2_ar_diffusion"></a>
+- [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923) by NVIDIA, arXiv 2025
+- [AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion](https://arxiv.org/abs/2503.07418) by Bytedance Inc., CVPR 2025
 
 ### Quantization<a id="section2_quantization"></a>
 - [AKVQ-VL: Attention-Aware KV Cache Adaptive
