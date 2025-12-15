@@ -4,6 +4,8 @@ A list of awesome dit projects and papers for dit accelerations.
 
 ## Contents
 - [Open Source Projects](#section1)
+  - [Video Generation Models](#section1_video_generation_models)
+  - [DiT Accelerations](#section1_dit_accelerations)
 - [Papers](#section2)
   - [Survey](#section2_survey)
   - [AR-Diffusion](#section2_ar_diffusion)
@@ -11,6 +13,16 @@ A list of awesome dit projects and papers for dit accelerations.
 - [Tutorials & Blogs](#section3)
 
 ## Open Source Projects<a id="section1"></a>
+
+### Video Generation Models<a id="section1_video_generation_models"></a>
+- [Mochi 1](https://www.genmo.ai/blog/mochi-1-a-new-sota-in-open-text-to-video) by Genmo
+- [Wan](https://wan.video/) by Alibaba
+- [Hunyuan](https://hunyuan.tencent.com/) by Tencent
+- [CogVideoX](https://github.com/zai-org/CogVideo) by Zhipu AI
+- [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) by PKU
+- [Open-Sora](https://github.com/hpcaitech/Open-Sora) by Colossal-AI
+
+### DiT Accelerations<a id="section1_dit_accelerations"></a>
 - [xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism](https://github.com/xdit-project/xDiT)
 - [USP: A Unified Sequence Parallelism Approach for Long Context Generative AI](https://github.com/feifeibear/long-context-attention) by Tencent
 
