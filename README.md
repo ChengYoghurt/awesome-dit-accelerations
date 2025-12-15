@@ -10,10 +10,13 @@ A list of awesome dit projects and papers for dit accelerations.
 - [Tutorials & Blogs](#section3)
 
 ## Open Source Projects<a id="section1"></a>
+- [xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism]([https://arxiv.org/abs/2411.01738](https://github.com/xdit-project/xDiT))
+- [USP: A Unified Sequence Parallelism Approach for Long Context Generative AI](https://github.com/feifeibear/long-context-attention) by Tencent
 
 ## Papers<a id="section2"></a>
 
 ### Survey
+- [Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study](https://arxiv.org/abs/2411.13588) by Tencent, arXiv 2024
 
 ### Quantization<a id="section2_quantization"></a>
 - [AKVQ-VL: Attention-Aware KV Cache Adaptive
