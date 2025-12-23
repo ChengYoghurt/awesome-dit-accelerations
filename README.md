@@ -37,6 +37,7 @@ A list of awesome dit projects and papers for dit accelerations.
 - [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923) by NVIDIA, arXiv 2025
 - [AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion](https://arxiv.org/abs/2503.07418) by Bytedance Inc., CVPR 2025
 - [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) by MIT, CVPR 2025
+- [Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing](https://arxiv.org/abs/2411.16375) by Gao, Kaifeng, et al., ICML 2025
 
 ### Quantization<a id="section2_quantization"></a>
 - [AKVQ-VL: Attention-Aware KV Cache Adaptive
@@ -48,7 +49,6 @@ A list of awesome dit projects and papers for dit accelerations.
 - [SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training](https://arxiv.org/abs/2505.11594) by Zhang, Jintao, et al., NeurIPS 2025
 
 ### KV Cache<a id="section2_kv_cache"></a>
-- [Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing](https://arxiv.org/abs/2411.16375) by Gao, Kaifeng, et al., ICML 2025
 - [ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification](https://arxiv.org/abs/2405.14256) by He, Yefei, et al., NeurIPS 2024
 - [No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization](https://arxiv.org/abs/2402.18096) by Yang, June Yong, et al., arXiv 2024
 - 
