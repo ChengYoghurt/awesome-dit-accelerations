@@ -36,6 +36,7 @@ A list of awesome dit projects and papers for dit accelerations.
 ### AR-Diffusion<a id="section2_ar_diffusion"></a>
 - [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923) by NVIDIA, arXiv 2025
 - [AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion](https://arxiv.org/abs/2503.07418) by Bytedance Inc., CVPR 2025
+- [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) by MIT, CVPR 2025
 
 ### Quantization<a id="section2_quantization"></a>
 - [AKVQ-VL: Attention-Aware KV Cache Adaptive
