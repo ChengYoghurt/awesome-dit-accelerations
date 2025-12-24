@@ -47,6 +47,9 @@ A list of awesome dit projects and papers for dit accelerations.
 - [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) by Zhang, Jintao, et al., ICLR 2025
 - [SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958) by Zhang, Jintao, et al., ICML 2025
 - [SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training](https://arxiv.org/abs/2505.11594) by Zhang, Jintao, et al., NeurIPS 2025
+- [SVDQuant: Absorbing Outliers by Low-Rank Component for 4-Bit Diffusion Models](https://iclr.cc/virtual/2025/poster/27906) by Li, Muyang, et al., ICLR 2025
+- [Vidit-q: Efficient and accurate quantization of diffusion transformers for image and video generation](https://iclr.cc/virtual/2025/poster/30429) by Zhao, Tianchen, et al., ICLR 2025
+- [PTQ4DiT: Post-training Quantization for Diffusion Transformers](https://nips.cc/virtual/2024/poster/95445) by Wu, Junyi, et al., NeurIPS 2024
 
 ### KV Cache<a id="section2_kv_cache"></a>
 - [ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification](https://arxiv.org/abs/2405.14256) by He, Yefei, et al., NeurIPS 2024
