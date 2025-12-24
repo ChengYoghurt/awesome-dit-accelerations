@@ -49,6 +49,7 @@ A list of awesome dit projects and papers for dit accelerations.
 - [SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training](https://arxiv.org/abs/2505.11594) by Zhang, Jintao, et al., NeurIPS 2025
 - [SVDQuant: Absorbing Outliers by Low-Rank Component for 4-Bit Diffusion Models](https://iclr.cc/virtual/2025/poster/27906) by Li, Muyang, et al., ICLR 2025
 - [Vidit-q: Efficient and accurate quantization of diffusion transformers for image and video generation](https://iclr.cc/virtual/2025/poster/30429) by Zhao, Tianchen, et al., ICLR 2025
+- [DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models](https://iclr.cc/virtual/2025/poster/29192) by Ryu, Hyogon, NaHyeon Park, and Hyunjung Shim., ICLR 2025
 - [PTQ4DiT: Post-training Quantization for Diffusion Transformers](https://nips.cc/virtual/2024/poster/95445) by Wu, Junyi, et al., NeurIPS 2024
 
 ### KV Cache<a id="section2_kv_cache"></a>
