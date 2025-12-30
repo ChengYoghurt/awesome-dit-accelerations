@@ -41,6 +41,7 @@ A list of awesome dit projects and papers for dit accelerations.
 - [Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing](https://arxiv.org/abs/2411.16375) by Gao, Kaifeng, et al., ICML 2025
 
 ### Sparse Attention<a id="section2_sparse_attention"></a>
+- [Fast Video Generation with Sliding Tile Attention](https://arxiv.org/abs/2502.04507) by Zhang, Peiyuan, et al., ICML 2026
 - [Radial Attention: $O(n \log n)$ Sparse Attention with Energy Decay for Long Video Generation](https://arxiv.org/abs/2506.19852) by Li, Xingyang, et al., NeurIPS 2025
 - [XAttention: Block Sparse Attention with Antidiagonal Scoring](https://arxiv.org/abs/2503.16428) by Xu, Ruyi, et al., ICML 2025
 - [SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse-Linear Attention](https://arxiv.org/abs/2509.24006) by Zhang, Jintao, et al., arXiv 2025
