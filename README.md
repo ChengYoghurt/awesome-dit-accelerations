@@ -44,6 +44,8 @@ A list of awesome dit projects and papers for dit accelerations.
 - [Radial Attention: $O(n \log n)$ Sparse Attention with Energy Decay for Long Video Generation](https://arxiv.org/abs/2506.19852) by Li, Xingyang, et al., NeurIPS 2025
 - [XAttention: Block Sparse Attention with Antidiagonal Scoring](https://arxiv.org/abs/2503.16428) by Xu, Ruyi, et al., ICML 2025
 - [SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse-Linear Attention](https://arxiv.org/abs/2509.24006) by Zhang, Jintao, et al., arXiv 2025
+- [Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity](https://arxiv.org/abs/2502.01776) by Xi, Haocheng, et al., ICML 2025
+- [Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation](https://arxiv.org/abs/2502.01776) by Yang, Shuo, et al., NeurIPS 2025
 
 ### Quantization<a id="section2_quantization"></a>
 - [AKVQ-VL: Attention-Aware KV Cache Adaptive
