@@ -23,6 +23,8 @@ A list of awesome dit projects and papers for dit accelerations.
 - [CogVideoX](https://github.com/zai-org/CogVideo) by Zhipu AI
 - [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) by PKU
 - [Open-Sora](https://github.com/hpcaitech/Open-Sora) by Colossal-AI
+- [HY-WorldPlay](https://github.com/Tencent-Hunyuan/HY-WorldPlay) by Tencent
+- [Lingbot-world](https://github.com/robbyant/lingbot-world) by Robbyant
 
 ### DiT Accelerations<a id="section1_dit_accelerations"></a>
 - [xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism](https://github.com/xdit-project/xDiT)
