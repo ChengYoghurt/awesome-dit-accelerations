@@ -51,21 +51,29 @@ A list of awesome dit projects and papers for dit accelerations.
 - [Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation](https://arxiv.org/abs/2502.01776) by Yang, Shuo, et al., NeurIPS 2025
 
 ### Quantization<a id="section2_quantization"></a>
-- [AKVQ-VL: Attention-Aware KV Cache Adaptive
-2-Bit Quantization for Vision-Language Models](https://arxiv.org/abs/2501.15021) by Su, Zunhai, et al., arXiv 2025
-- [PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs](https://arxiv.org/abs/2505.18610) by Liu, Tengxuan, et al., arXiv 2025
+- [SpecQuant: Spectral Decomposition and Adaptive Truncation for Ultra-Low-Bit LLMs Quantization](https://arxiv.org/abs/2511.11663) by Zhao, Zhixiong, et al., AAAI 2026
+- [SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers](https://arxiv.org/abs/2603.02883) by Jang, Wonsuk, and Thierry Tambe., arXiv 2026
 - [PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models](https://arxiv.org/abs/2506.16054) by Zhao, Tianchen, et al., arXiv 2025
 - [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) by Zhang, Jintao, et al., ICLR 2025
 - [SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958) by Zhang, Jintao, et al., ICML 2025
 - [SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training](https://arxiv.org/abs/2505.11594) by Zhang, Jintao, et al., NeurIPS 2025
 - [SVDQuant: Absorbing Outliers by Low-Rank Component for 4-Bit Diffusion Models](https://iclr.cc/virtual/2025/poster/27906) by Li, Muyang, et al., ICLR 2025
+- [TurboAttention: Efficient Attention Approximation For High Throughputs LLMs](https://arxiv.org/abs/2412.08585) by Kang, Hao, et al., PMLS 2025
 - [Vidit-q: Efficient and accurate quantization of diffusion transformers for image and video generation](https://iclr.cc/virtual/2025/poster/30429) by Zhao, Tianchen, et al., ICLR 2025
 - [DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models](https://iclr.cc/virtual/2025/poster/29192) by Ryu, Hyogon, NaHyeon Park, and Hyunjung Shim., ICLR 2025
 - [DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization](https://arxiv.org/abs/2507.12933) by Lee, Dongyeun, et al., ICCV 2025
 - [PTQ4DiT: Post-training Quantization for Diffusion Transformers](https://nips.cc/virtual/2024/poster/95445) by Wu, Junyi, et al., NeurIPS 2024
 
 ### KV Cache<a id="section2_kv_cache"></a>
+- [OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond](https://arxiv.org/abs/2605.19660) by Su, Zunhai, et al., arXiv 2026
+- [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://arxiv.org/abs/2604.04921) by Mao, Weian, et al., arXiv 2026
+- [Resonating with RoPE: Spectral Quantization for High-Fidelity Key Cache Compression](https://2026.aclweb.org/program/accepted_papers/) by Wang, Xuefeng, et al., ACL 2026
+- [PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration](https://arxiv.org/abs/2502.00527) by Han, Insu, et al., arXiv 2025
+- [SpinQuant: LLM quantization with learned rotations](https://arxiv.org/abs/2405.16406) by Liu, Zechun, et al., ICLR 2025
+- [AKVQ-VL: Attention-Aware KV Cache Adaptive 2-Bit Quantization for Vision-Language Models](https://arxiv.org/abs/2501.15021) by Su, Zunhai, et al., arXiv 2025
+- [PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs](https://arxiv.org/abs/2505.18610) by Liu, Tengxuan, et al., arXiv 2025
 - [DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads](https://arxiv.org/abs/2410.10819) by Xiao, Guangxuan, et al., ICLR 2025
+- [KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization](https://arxiv.org/abs/2401.18079) by Hooper, Coleman, et al., NeurIPS 2024
 - [ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification](https://arxiv.org/abs/2405.14256) by He, Yefei, et al., NeurIPS 2024
 - [No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization](https://arxiv.org/abs/2402.18096) by Yang, June Yong, et al., arXiv 2024
 
