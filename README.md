@@ -68,6 +68,7 @@ A list of awesome dit projects and papers for dit accelerations.
 - [PTQ4DiT: Post-training Quantization for Diffusion Transformers](https://nips.cc/virtual/2024/poster/95445) by Wu, Junyi, et al., NeurIPS 2024
 
 ### KV Cache<a id="section2_kv_cache"></a>
+- [Quantized Keys Steal Attention: Bias Correction for KV-Cache Compression in Video Diffusion](https://arxiv.org/abs/2605.26266) by Tuncer, Tuna, Felix Becker, and Thomas Pfeil., ICML 2026
 - [OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond](https://arxiv.org/abs/2605.19660) by Su, Zunhai, et al., arXiv 2026
 - [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://arxiv.org/abs/2604.04921) by Mao, Weian, et al., arXiv 2026
 - [Resonating with RoPE: Spectral Quantization for High-Fidelity Key Cache Compression](https://2026.aclweb.org/program/accepted_papers/) by Wang, Xuefeng, et al., ACL 2026
