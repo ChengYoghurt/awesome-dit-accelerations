@@ -51,6 +51,9 @@ A list of awesome dit projects and papers for dit accelerations.
 - [Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation](https://arxiv.org/abs/2502.01776) by Yang, Shuo, et al., NeurIPS 2025
 
 ### Quantization<a id="section2_quantization"></a>
+- [Q-ARVD: Quantizing Autoregressive Video Diffusion Models](https://arxiv.org/abs/2605.21072) by Tang, Siao, et al., arXiv 2026
+- [RotateAttention: RoPE-Aware Rotation and Range Rectification for INT4 Quantized Attention in Video Generation](https://arxiv.org/abs/2607.02584) by Liu, Yaofu, et al., arXiv 2026
+- [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](https://arxiv.org/pdf/2607.02461) by Lee, Donghyun, et al., arXiv 2026
 - [SpecQuant: Spectral Decomposition and Adaptive Truncation for Ultra-Low-Bit LLMs Quantization](https://arxiv.org/abs/2511.11663) by Zhao, Zhixiong, et al., AAAI 2026
 - [SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers](https://arxiv.org/abs/2603.02883) by Jang, Wonsuk, and Thierry Tambe., arXiv 2026
 - [PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models](https://arxiv.org/abs/2506.16054) by Zhao, Tianchen, et al., arXiv 2025
